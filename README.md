@@ -1,6 +1,7 @@
-# 简洁聊天室 BY CRWorld
+# 千寻聊天室2.0
 
 一个基于PHP和JavaScript开发的轻量级实时多人聊天室系统，具有简洁的界面和流畅的用户体验。
+
 
 ## 功能特点
 
@@ -14,10 +15,22 @@
 ## 界面预览
 
 ### 登录界面
-![登录界面](Screenshot/v1login.png)
+![登录界面](Screenshot/登录.png)
+
+### 房间列表界面
+![聊天室界面](Screenshot/房间列表.png)
 
 ### 聊天室界面
-![聊天室界面](Screenshot/v1index.png)
+![聊天室界面](Screenshot/聊天室.png)
+
+### 聊天室权限
+![聊天室界面](Screenshot/聊天室权限.png)
+
+### 权限界面
+![聊天室界面](Screenshot/权限.png)
+
+### 撤回回复界面
+![聊天室界面](Screenshot/撤回.png)
 
 ## 安装说明
 
